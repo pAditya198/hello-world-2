@@ -1,2 +1,10 @@
 # hello-world
-First project
+First project on github.
+I am newbies to this github.
+
+
+
+
+
+
+
